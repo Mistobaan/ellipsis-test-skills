@@ -1,0 +1,7 @@
+{
+  "name" : "Test1",
+  "exportId" : "AARmPd9yTu6T848W5WcViA",
+  "requiredAWSConfigs" : [ ],
+  "requiredOAuth2ApiConfigs" : [ ],
+  "requiredSimpleTokenApis" : [ ]
+}
