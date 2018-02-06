@@ -1,7 +1,12 @@
 {
-  "name" : "Test1",
-  "exportId" : "AARmPd9yTu6T848W5WcViA",
+  "name" : "One-on-ones",
+  "exportId" : "zeCUqH7iSjyG8GimQgB7fg",
+  "icon" : "👥",
   "requiredAWSConfigs" : [ ],
-  "requiredOAuth2ApiConfigs" : [ ],
+  "requiredOAuth2ApiConfigs" : [ {
+    "exportId" : "IXPY8tt4RmalK6wdn07WwQ",
+    "apiId" : "RdG2Wm5DR0m2_4FZXf-yKA",
+    "nameInCode" : "googleCalendar"
+  } ],
   "requiredSimpleTokenApis" : [ ]
 }
